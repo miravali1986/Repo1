@@ -17,3 +17,12 @@ protected override void Seed(BookService.Models.BookServiceContext context)
             Price = 8.95M, Genre = "Picaresque" }
         );
 }
+git init
+
+git add filename
+
+git commit -m "Commit message"
+
+git remote add myreponame link to the repo
+
+git push myreponame branchname 
